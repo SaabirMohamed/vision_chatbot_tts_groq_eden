@@ -8,7 +8,7 @@ import requests
 from PIL import Image
 import io
 import json
-
+# you need to run pip install streamlit python-dotenv groq requests pyttsx3 pillow
 # Load environment variables
 load_dotenv()
 
