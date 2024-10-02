@@ -3,4 +3,4 @@ python-dotenv
 groq
 requests
 pyttsx3
-pillow
+pillowk
